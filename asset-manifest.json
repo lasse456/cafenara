@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cafenara/static/css/main.97374b12.css",
+    "main.js": "/cafenara/static/js/main.cde1b0a6.js",
+    "index.html": "/cafenara/index.html",
+    "main.97374b12.css.map": "/cafenara/static/css/main.97374b12.css.map",
+    "main.cde1b0a6.js.map": "/cafenara/static/js/main.cde1b0a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97374b12.css",
+    "static/js/main.cde1b0a6.js"
+  ]
+}
